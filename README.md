@@ -15,10 +15,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Proj-JCP&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
 
-
-
-
-
 ## Minhas contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Proj-JCP&repo=JCP&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](](https://github.com/Proj-JCP/JCP/)https://github.com/Proj-JCP/JCP)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Proj-JCP&theme=transparent&hide_border=falso)](https://git.io/streak-stats)
